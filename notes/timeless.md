@@ -18,3 +18,17 @@
   They are nothing but normal probabilities only conditioning which can be seen as in time when 
   you refer to it as someone giviing you partial info like hey I know that B happened, or it can
   be seen as timeless as pure logic where you describe the proportions in parent units.
+
+* The intuition about things introduces time. Because we are used to it. That is why we call it inference.
+
+* at the end of the day the only question in the timeless sense is: portion of what?, the same bayes rule
+  on p(ai | b) makes sense in those terms. Viewed from the tree you are trying to measure the portion of
+  ai that is in b.
+
+* Independence =! disjoint. infact disjoint is dependence because intuitively it makes us change the beliefs.
+
+* Independence on a single experiment by definition is just a numerical accident where p(a intersection b) =
+  p(a) * p(b).
+
+* It makes more sense across events from different experiments.
+
