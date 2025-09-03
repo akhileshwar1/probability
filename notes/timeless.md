@@ -32,3 +32,16 @@
 
 * It makes more sense across events from different experiments.
 
+* With random variables we are basically scaling the concept of uncertainty.
+  Most of the operations like independence, conditioning are same, just that 
+  the scale has changed. Now it is across different universes/same universe
+  but randomness in the variables. 
+
+* random variable nomenclature makes sense if you see it as randomness or the  
+  uncertainty across a variable. When you say two variables are independent, 
+  you are saying that not just one but all the events under them are independent.
+  Same with conditioning, the scale encompasses all the values that the variables
+  can take. so conditioning can also be broken down into multiple eventful parts 
+  which is our foundation.
+
+* The notation helps manage the scale that we are talking about.
