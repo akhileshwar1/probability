@@ -23,3 +23,7 @@
 * tan measures the tangent line's intersection to the axis. cot is the remaining half of the line intersecting on the other axis.
 
 * Go to paul's notes or 3b1b playlist.
+
+* The common question is how does it make sense to have a triangle for an obtuse angle. You see that when moving about
+  the coordinate axis it is not about the triangle containing the obtuse angle because it just can't, instead it is 
+  about triangle that is formed at that angle. Refer point 5 on how to form it there.
