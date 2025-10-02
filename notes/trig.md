@@ -21,3 +21,5 @@
 * radians is the distance on the curve of the circle. the total perimeter for the unit circle is 2*pi = 180 deg.
 
 * tan measures the tangent line's intersection to the axis. cot is the remaining half of the line intersecting on the other axis.
+
+* Go to paul's notes or 3b1b playlist.
