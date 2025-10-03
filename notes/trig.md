@@ -27,3 +27,11 @@
 * The common question is how does it make sense to have a triangle for an obtuse angle. You see that when moving about
   the coordinate axis it is not about the triangle containing the obtuse angle because it just can't, instead it is 
   about triangle that is formed at that angle. Refer point 5 on how to form it there.
+
+* when you say something like 2sin(x) you are scaling on the y axis by 2. what do you mean by scaling by?
+  it basically means that you replace the scale that you have with unit distances in between with a scale
+  that now has 2 unit distances in between points. SO in a way you stretch the graph.
+
+* Similarly, on the x axis scaling such as sin(2x) things get squeezed along the x axis because 
+  you have now replaced the x axis with a scale that has 2 unit distances between points, so things
+  occur before.
