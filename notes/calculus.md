@@ -29,3 +29,10 @@
 * whereas differentiability is about f'(x) i.e the left and right limit of slopes tend to the same value. That is why
   visually we say a rough right angle or cut is not differentiable because left and right slopes tend to different
   values.
+
+* one main point, so usually when you say average rate of change, we take total change and average it out over the period.
+  but with instantaneous, we are doing the same thing, taking the total change during that period and averaging it out
+  over that instant, but we don't really have units for the instant so there is no per denominator as in average rate of change
+  but we report even speed in km/h at an instant because we scale those instantaneous unitless values and report it as 
+  houred values. Meaning the speed at an instant means if we go along with this instantaneous rate we will cover 60km
+  per hour.
