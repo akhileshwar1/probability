@@ -36,3 +36,7 @@
   but we report even speed in km/h at an instant because we scale those instantaneous unitless values and report it as 
   houred values. Meaning the speed at an instant means if we go along with this instantaneous rate we will cover 60km
   per hour.
+
+* while graphing a function starting from a known function you can apply two operations: 1. translation 2. change of scale.
+  both keep the shape intact, where translation can be up or down, left or right, meaning shift the graph. and change of 
+  scale can also be vertical or horizontal where we basically stretch or squeeze the graph.
